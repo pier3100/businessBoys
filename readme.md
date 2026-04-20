@@ -1,3 +1,5 @@
 # notes
 hallo dit is een test!
-bla bla
+hello you are a nice person
+
+see you later
