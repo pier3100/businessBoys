@@ -6,3 +6,4 @@ see you later
 
 # CMake
 - https://melatonin.dev/blog/how-to-use-cmake-with-juce/
+- dit is geen link, maar probeer maar te klikken
