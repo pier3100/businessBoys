@@ -1,10 +1,5 @@
-# notes
-hallo dit is een test!
-hello you are a nice person
-
-see you later
+# Personal First Plugins
+- Pier: https://github.com/pier3100/firstAudioChack2000
 
 # CMake
 - https://melatonin.dev/blog/how-to-use-cmake-with-juce/
-- dit is geen link, maar probeer maar te klikken
-- dgkh
